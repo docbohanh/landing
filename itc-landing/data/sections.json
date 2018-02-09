@@ -1,0 +1,314 @@
+{
+  "education": {
+    "title": "CSR - Education",
+    "description": "\u003Cp\u003EThe time has come for practical and alternative methods of education that are complementary to the traditional system. The IT industry is blooming and Transylvania needs clever minds that will create tomorrow\u003Cstrong\u003E\u0027s products and se\u003C\/strong\u003Ervices. PitechPlus signed a partnership with Ecole 42, from Paris and launched ACADEMY+PLUS in Cluj-Napoca, in 2014.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u003Cem\u003E\u003Cstrong\u003EACADEMY+PLUS\u003C\/strong\u003E\u003C\/em\u003E has the mission to form tomorrow\u0027s IT specialists through a free study-program with practical modules. No teachers, but professional trainers, no grades, but level of performance, no \u003Cem\u003Eschedule, the school\u003C\/em\u003E is open 24\/7. This is how we develop highly performing specialists and future entrepreneurs.\u003C\/p\u003E\r\n",
+    "path": "education",
+    "right_half_picture": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/4_0.png",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "We believe in strong projects",
+      "positioning": "left",
+      "list_type": "table",
+      "slider": "0",
+      "pictogram_position": "hide_pictogram",
+      "section_details": [{
+        "target_id": "92"
+      }, {
+        "target_id": "93"
+      }, {
+        "target_id": "94"
+      }, {
+        "target_id": "95"
+      }]
+    }]
+  },
+  "our-work": {
+    "title": "Services",
+    "description": "<h3>IT &amp; Telecom Consulting and Solution Designing</h3><p>With years of experience in telecommunication and technology, we wish to bring our customers state-of-the-art solutions using products from top technology brands in the world.</p><h3>Implementation &amp; Technical Support</h3><p>With a highly technical base of knowledge, modern administration and years of experiences, we are confident we will bring our customers perfect Implementation and Technical support services, satisfying the most demanding requirements.</p><h3>Training &amp; Technology Transfer</h3><p>In order to support customers during system operation time, we also provide training programs, from a basic to advanced level, using textbooks of top IT companies in the world.</p>",
+    "path": "our-work",
+    "right_half_picture": "img/section/services.jpg"
+  },
+  "success-stories": {
+    "title": "Success Stories",
+    "description": "<h3>Network &amp; Mobility</h3>The only SI deployed IPCore Network for top 3 SP in Vietnam and deploy IPCore Network for Viettel Peru<br>The first SI deployed unified MPLS for Viettel me network in Vietnam, expanded to Viettel Cambodia, Viettel Cameroun<br>Deployed 4G EPC, MSS for MobiFone &amp; LTE Radio station for VNPT<br>Provided and deployed hardware for VOCs, VMSC of Viettel, Viettel Global<br>Deployed Ericsson OCS for VNPT<br><br><h3>Security</h3>Provided Pentest and Incident Response services for Mobifone<br>Provided CGNAT, firewall solution for Viettel 3G/4G mobile subscribers<br>Provided overall security solutions for MOFA, PVI in Vietnam<br>Provided firewall solutions for 3G subscribers of Vinaphone<br>Provided proxy internet solutions for Mobifone subcribers<br><br><h3>Data center, visualization and cloud computing</h3>First SI in Vietnam deployed Public Cloud systems for Viettel IDC<br>First SI deployed biggest VDI system for Office of the Government and Mobifone branch offices<br>First SI in ASIA deployed the biggest server system of Sun MicroSystem E6900, M8000, M9000<br>",
+    "path": "success-stories",
+    "right_half_picture": "img/section/success-stories.jpg"
+  },
+  "grow-with-us": {
+    "title": "Grow with us",
+    "description": "\u003Ch3\u003ESharing ideas, experiences and knowledge on a regular basis\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EWe take our work seriously, and we have fun while doing it. Morning coffees in our colorful kitchen are full of laughter and serious planning, we eat our lunch at very big tables and the end of the program might be after another round of FIFA.\u003C\/p\u003E\r\n\r\n\u003Cp\u003EProject managers, team-leaders and dedicated specialists support our internal learning and development. Helping one another is something we learn everyday together. There is always someone who knows another way of solving things, and sharing it might get someone to find even a better solution.\u003C\/p\u003E\r\n",
+    "path": "grow-with-us",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Available jobs",
+      "positioning": "right",
+      "list_type": "table",
+      "slider": "0",
+      "pictogram_position": "above",
+      "section_details": [{
+        "target_id": "62"
+      }, {
+        "target_id": "63"
+      }, {
+        "target_id": "64"
+      }, {
+        "target_id": "65"
+      }, {
+        "target_id": "66"
+      }, {
+        "target_id": "67"
+      }, {
+        "target_id": "111"
+      }, {
+        "target_id": "69"
+      }, {
+        "target_id": "138"
+      }, {
+        "target_id": "139"
+      }]
+    }, {
+      "paragraph_type": "sd_list",
+      "title": "Why join us?",
+      "positioning": "left",
+      "list_type": "table",
+      "slider": "0",
+      "pictogram_position": "above",
+      "section_details": [{
+        "target_id": "73"
+      }, {
+        "target_id": "74"
+      }, {
+        "target_id": "75"
+      }, {
+        "target_id": "76"
+      }, {
+        "target_id": "77"
+      }, {
+        "target_id": "78"
+      }, {
+        "target_id": "79"
+      }, {
+        "target_id": "80"
+      }, {
+        "target_id": "98"
+      }]
+    }]
+  },
+  "clients": {
+    "title": "Partners",
+    "description": "<p>Confidence in the spirit of partnership is the root of potentially lucrative business cooperation. Our heartfelt thanks to all our esteemed partners.</p>",
+    "path": "clients",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Industries",
+      "positioning": "left",
+      "list_type": "list",
+      "slider": "0",
+      "pictogram_position": "hide_pictogram",
+      "section_details": [{
+        "target_id": "24"
+      }, {
+        "target_id": "25"
+      }, {
+        "target_id": "26"
+      }, {
+        "target_id": "27"
+      }, {
+        "target_id": "28"
+      }, {
+        "target_id": "29"
+      }, {
+        "target_id": "30"
+      }, {
+        "target_id": "31"
+      }, {
+        "target_id": "32"
+      }, {
+        "target_id": "33"
+      }, {
+        "target_id": "34"
+      }, {
+        "target_id": "35"
+      }]
+    }, {
+      "paragraph_type": "sd_list",
+      "title": "Some of our partners",
+      "positioning": "right",
+      "list_type": "table",
+      "slider": "1",
+      "pictogram_position": "hide_title",
+      "section_details": [{
+        "target_id": "36"
+      }, {
+        "target_id": "37"
+      }, {
+        "target_id": "38"
+      }, {
+        "target_id": "39"
+      }, {
+        "target_id": "40"
+      }, {
+        "target_id": "41"
+      }, {
+        "target_id": "42"
+      }, {
+        "target_id": "43"
+      }, {
+        "target_id": "44"
+      }]
+    }]
+  },
+  "customers": {
+    "title": "Customers",
+    "description": "<p>Service is evaluated by quality. Service quality is built for customer satisfaction.</p>",
+    "path": "customers",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Industries",
+      "positioning": "left",
+      "list_type": "list",
+      "slider": "0",
+      "pictogram_position": "hide_pictogram",
+      "section_details": [{
+        "target_id": "24"
+      }, {
+        "target_id": "25"
+      }, {
+        "target_id": "26"
+      }, {
+        "target_id": "27"
+      }, {
+        "target_id": "28"
+      }, {
+        "target_id": "29"
+      }, {
+        "target_id": "30"
+      }, {
+        "target_id": "31"
+      }, {
+        "target_id": "32"
+      }, {
+        "target_id": "33"
+      }, {
+        "target_id": "34"
+      }, {
+        "target_id": "35"
+      }]
+    }, {
+      "paragraph_type": "sd_list",
+      "title": "Some of our clients",
+      "positioning": "right",
+      "list_type": "table",
+      "slider": "1",
+      "pictogram_position": "hide_title",
+      "section_details": [{
+        "target_id": "45"
+      }, {
+        "target_id": "46"
+      }, {
+        "target_id": "47"
+      }, {
+        "target_id": "48"
+      }, {
+        "target_id": "49"
+      }, {
+        "target_id": "50"
+      }, {
+        "target_id": "51"
+      }, {
+        "target_id": "52"
+      }, {
+        "target_id": "53"
+      }]
+    }]
+  },
+  "expertise": {
+    "title": "Our know-how",
+    "description": "\u003Cp\u003ESince our pioneering work in the early days of PHP, we have gathered a huge amount of knowledge, experience and expertise to help your business navigate the complexities of technology.\u003C\/p\u003E\r\n\r\n\u003Cp\u003EOur specialised communities use the right platform, that helps you to adapt to device innovations and offer your user a meaningful experience.\u003C\/p\u003E\r\n",
+    "path": "expertise",
+    "right_half_picture": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/1.png",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Communities",
+      "positioning": "left",
+      "list_type": "table",
+      "slider": "0",
+      "pictogram_position": "left",
+      "section_details": [{
+        "target_id": "82"
+      }, {
+        "target_id": "83"
+      }, {
+        "target_id": "84"
+      }, {
+        "target_id": "85"
+      }, {
+        "target_id": "86"
+      }, {
+        "target_id": "87"
+      }, {
+        "target_id": "88"
+      }, {
+        "target_id": "89"
+      }, {
+        "target_id": "90"
+      }]
+    }]
+  },
+  "about-us": {
+    "title": "About Us",
+    "description": "<p>Founded in 1995, ITC Innovated Technology for Communication Joint Stock Company (ITC JSC) has its headquarters in Hanoi, a branch in Ho Chi Minh City and a representative office in Da Nang. ITC JSC has affirmed its place as one of the  few leading Systems Integrators specializing in the High-tech Telecommunication and IT markets. Its leadership position is affirmed by its clients as well as its accreditation  by reputable global partners.</p><p>Our Slogan \"Flexible in all integrated solutions and innovated technology\", together with our strong financial foundation, stable business structure and worldwide partnership form the principle for our customer oriented services. We, ITC JSC, pledge to give our customers the best of breed products and solutions.</p><h3>Core Values</h3><p>Creativity brought to live from innovative technologies</p><p>Prestige earned from quality of services</p><p>Brand recognition endowed by our converged values</p><p>Dynamic structure conformed to international standards</p><p>Aspired to succeed</p><h3>Vision</h3><p>\"Leading System Intergrator in Vietnam\"</p><p>Going global, bringing customers the highest business efficiency through flexible solutions and world class services</p>",
+    "path": "about-us",
+    "right_half_picture": "img/section/about-us.jpg",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Step inside our story",
+      "positioning": "left",
+      "list_type": "single",
+      "slider": "0",
+      "pictogram_position": "hide_pictogram",
+      "section_details": [{
+        "target_id": "13"
+      }]
+    }]
+  },
+  "core-values": {
+    "title": "Core Values",
+    "description": "<h3>Core Values</h3><ul><li>Creativity brought to live from innovative technologies</li><li>Prestige earned from quality of services</li><li>Brand recognition endowed by our converged values</li><li>Dynamic structure conformed to international standards</li><li>Aspired to succeed</li></ul><br><h3>Vision</h3><ul><li>\"Leading System Intergrator in Vietnam\"</li><li>Going global, bringing customers the highest business efficiency through flexible solutions and world class services</li></ul>",
+    "path": "core-values",
+    "right_half_picture": "img/section/core-values.jpg",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Step inside our story",
+      "positioning": "left",
+      "list_type": "single",
+      "slider": "0",
+      "pictogram_position": "hide_pictogram",
+      "section_details": [{
+        "target_id": "13"
+      }]
+    }]
+  },
+  "leadership": {
+    "title": "Our Leadership",
+    "description": "<div class=\"leader\"><img src=\"img/team/1.png\" alt=\"avatar\"><div class=\"leader-info\"><h3>Nguyen Quang Son</h3><p>President &amp; CEO</p></div></div><div class=\"leader\"><img src=\"img/team/2.png\" alt=\"avatar\"><div class=\"leader-info\"><h3>Dang Vu Lan Phuong</h3><p>SVP - Finance &amp; Accounting</p></div></div><div class=\"leader\"><img src=\"img/team/3.png\" alt=\"avatar\"><div class=\"leader-info\"><h3>Le Ngoc Hoang</h3><p>SVP - Business Development</p></div></div>",
+    "path": "leadership",
+    "right_half_picture": "img/section/01.jpg",
+    "paragraphs": [{
+      "paragraph_type": "sd_list",
+      "title": "Step inside our story",
+      "positioning": "left",
+      "list_type": "single",
+      "slider": "0",
+      "pictogram_position": "hide_pictogram",
+      "section_details": [{
+        "target_id": "13"
+      }]
+    }]
+  },
+  "media": {
+    "title": "Media",
+    "description": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et libero sit amet magna auctor tincidunt nec sit amet lacus. Etiam a efficitur elit, vel dignissim mi. Proin vel tincidunt eros, nec porta magna. Integer iaculis libero ante, iaculis feugiat lorem facilisis id. Nulla ut augue condimentum, commodo dui a, semper massa. Quisque quis tempus mi. Cras eu lectus fermentum, dictum lorem scelerisque, convallis tortor. Sed vel scelerisque dui. Nam vitae sodales enim, eget placerat eros. Vivamus nec pellentesque odio, et hendrerit lacus. Mauris blandit purus nec tristique scelerisque. Ut nisl neque, imperdiet vehicula libero vel, rhoncus accumsan nibh. Morbi facilisis magna vel consequat vestibulum. Mauris imperdiet massa et est vulputate auctor. Etiam ut dolor lorem.\u003C\/p\u003E\r\n\r\n\u003Cp\u003EPellentesque sit amet consequat diam. Aliquam sapien lorem, posuere non euismod quis, maximus non odio. Praesent placerat commodo porta. Cras aliquam lorem ut tellus auctor, eget laoreet ligula hendrerit. Nam nec ante in sem dignissim auctor. Mauris volutpat convallis nisi a blandit. Maecenas eu ex consequat, sodales lacus at, lobortis sapien. Nulla eget dictum ante. Nunc suscipit sagittis arcu, sit amet blandit nunc varius sed. Nulla sem urna, dapibus ut varius nec, molestie ultrices dui. Phasellus non massa quis elit sagittis tempor facilisis vitae elit.\u003C\/p\u003E\r\n\r\n\u003Cp\u003EEtiam non nunc molestie, iaculis eros et, sodales justo. Pellentesque dolor enim, suscipit vitae fermentum porttitor, ultrices vel urna. Fusce nulla libero, viverra a pulvinar eu, ultrices non orci. Vestibulum mattis enim enim. Morbi a mauris vitae ipsum tempor aliquam. Vivamus vitae odio a velit porttitor laoreet. Vivamus malesuada ultrices iaculis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed non neque ac dolor scelerisque cursus. Sed nec mauris at est dictum vulputate. In hac habitasse platea dictumst. Proin volutpat metus ligula, sit amet lobortis quam venenatis sed. Morbi pulvinar lectus enim, a ullamcorper libero fringilla nec. Curabitur gravida massa ut sodales bibendum.\u003C\/p\u003E\r\n",
+    "path": "media"
+  }
+}
