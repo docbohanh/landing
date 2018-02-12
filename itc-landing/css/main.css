@@ -2026,7 +2026,7 @@ i {
 
 #main-menu .small-logo img {
   max-width: 160px;
-  height: 20px
+  height: 40px;
 }
 
 #main-menu .mobile-back-button {
@@ -4476,4 +4476,11 @@ ul.type-list li {
 
 #contact-details p {
   font-size: 16px;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .office {
+    margin-right: 0;
+  }
 }

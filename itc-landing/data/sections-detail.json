@@ -255,8 +255,8 @@
     "target_id": "45",
     "title": "Transavia",
     "path": "transavia",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/10_Transavia-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/10_Transavia-active-100x50.png",
+    "pictogram": "img/partners/10.png",
+    "active_pictogram": "img/partners/10.png",
     "meta_title": "Transavia"
   },
   "46": {
@@ -264,8 +264,8 @@
     "title": "Drivy",
     "description": "\u003Cdiv class=\u0022client-intro\u0022\u003E\r\n\u003Cdiv class=\u0022client-logo\u0022\u003E\u003Ca href=\u0022http:\/\/www.drivy.com\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022drivy logo\u0022 class=\u0022lazyload\u0022 data-original=\u0022\/sites\/default\/files\/inline-images\/drivy-logo.png\u0022 src=\u0022\/sites\/default\/files\/inline-images\/drivy-logo.png\u0022 \/\u003E \u003C\/a\u003E\u003C\/div\u003E\r\n\r\n\u003Cp\u003EDrivy (formerly Voiturelib) is known as the leading P2P car sharing platform in France.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022client-details\u0022\u003E\r\n\u003Cdiv class=\u0022projects-wrap\u0022\u003E\r\n\u003Cdiv class=\u0022projects\u0022\u003E\r\n\u003Ch3\u003EWhat did we do\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EDrivy is the Airbnb of the cars: it helps regular people put their spare or used cars up for short-term rent in a safe setting.Through a convenient online platform and mobile app users can arrange a rental close to wherever they are.\u003C\/p\u003E\r\n\r\n\u003Cdiv class=\u0022members\u0022\u003E\r\n\u003Ch3\u003ETechnical details\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EMobile\/online platform consulting concept, development, implementation, and maintenance of Drivy V2.\u003Cbr \/\u003E\r\nUsers can register, book cars, make payments\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022project-image\u0022\u003E\u003Cimg alt=\u0022drivy platform\u0022 class=\u0022lazyload\u0022 data-original=\u0022\/sites\/default\/files\/inline-images\/drivy-image.jpg\u0022 src=\u0022\/sites\/default\/files\/inline-images\/drivy-image.jpg\u0022 \/\u003E\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n",
     "path": "drivy",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/13_drivy-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/13_drivy-active-100x50.png",
+    "pictogram": "img/partners/11.png",
+    "active_pictogram": "img/partners/11.png",
     "meta_title": "Drivy Client",
     "action": [{
       "action_type": "contact",
@@ -279,32 +279,32 @@
     "target_id": "47",
     "title": "RCI Bank and Services",
     "path": "rci",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/16_RCI-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/16_RCI-active-100x50.png",
+    "pictogram": "img/partners/12.png",
+    "active_pictogram": "img/partners/12.png",
     "meta_title": "RCI"
   },
   "48": {
     "target_id": "48",
     "title": "Institut Francais",
     "path": "institus-francais",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/11_institutfrancais-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/11_institutfrancais-active-100x50.png",
+    "pictogram": "img/partners/13.png",
+    "active_pictogram": "img/partners/13.png",
     "meta_title": "Institut francais"
   },
   "49": {
     "target_id": "49",
     "title": "Altavia",
     "path": "altavia",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/3_Altavia-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/3_Altavia-active-100x50.png",
+    "pictogram": "img/partners/14.png",
+    "active_pictogram": "img/partners/14.png",
     "meta_title": "Altavia"
   },
   "50": {
     "target_id": "50",
     "title": "Ecofolio",
     "path": "ecofolio",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/17_ecofolio-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/17_ecofolio-active-100x50.png",
+    "pictogram": "img/partners/15.png",
+    "active_pictogram": "img/partners/15.png",
     "meta_title": "Ecofolio"
   },
   "51": {
@@ -312,8 +312,8 @@
     "title": "Monoqi",
     "description": "\u003Cdiv class=\u0022client-intro\u0022\u003E\r\n\u003Cdiv class=\u0022client-logo\u0022\u003E\u003Ca href=\u0022http:\/\/www.monoqi.com\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022monoqi logo\u0022 class=\u0022lazyload\u0022 data-original=\u0022\/sites\/default\/files\/inline-images\/monoqi-logo.png\u0022 src=\u0022\/sites\/default\/files\/inline-images\/monoqi-logo.png\u0022 \/\u003E \u003C\/a\u003E\u003C\/div\u003E\r\n\r\n\u003Cp\u003EA revolutionary wholesale online platform for design brands and buyers.It connects vendors and buyers in the sector of fashion and design.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022client-details\u0022\u003E\r\n\u003Cdiv class=\u0022projects-wrap\u0022\u003E\r\n\u003Cdiv class=\u0022projects\u0022\u003E\r\n\u003Ch3\u003EWhat did we do\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EB2C \u0026amp; B2B platform\u003Cbr \/\u003E\r\nCreate, manage and update orders in one place\u003Cbr \/\u003E\r\nCentralise the communication with the partners\u003Cbr \/\u003E\r\nDirectly negotiate inquiries in one simple interface\u003C\/p\u003E\r\n\r\n\u003Cdiv class=\u0022members\u0022\u003E\r\n\u003Ch3\u003ETechnical details\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EKey functionalities: Chat, bargaining module, price management, quote request, commissions management, samples request.\u003Cbr \/\u003E\r\nMagento 1.7 community edition for the B2C platform.\u003Cbr \/\u003E\r\nScala for the B2B platform\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022project-image\u0022\u003E\u003Cimg alt=\u0022monoqi platform\u0022 class=\u0022lazyload\u0022 data-original=\u0022\/sites\/default\/files\/inline-images\/monoqi-image.png\u0022 src=\u0022\/sites\/default\/files\/inline-images\/monoqi-image.png\u0022 \/\u003E\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n",
     "path": "monoqi",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/12_monoqi-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/12_monoqi-active-100x50.png",
+    "pictogram": "img/partners/16.png",
+    "active_pictogram": "img/partners/16.png",
     "meta_title": "Monoqi Client",
     "action": [{
       "action_type": "contact",
@@ -327,8 +327,8 @@
     "target_id": "52",
     "title": "FoodPanda",
     "path": "foodpanda",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/15_foodpanda-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/15_foodpanda-active-100x50.png",
+    "pictogram": "img/partners/17.png",
+    "active_pictogram": "img/partners/17.png",
     "meta_title": "Foodpanda"
   },
   "53": {
@@ -336,8 +336,8 @@
     "title": "Ausy",
     "description": "\u003Cdiv class=\u0022client-intro\u0022\u003E\r\n\u003Cdiv class=\u0022client-logo\u0022\u003E\u003Ca href=\u0022http:\/\/www.ausy.fr\u0022 target=\u0022_blank\u0022\u003E\u003Cimg alt=\u0022ausy logo\u0022 src=\u0022\/sites\/default\/files\/styles\/thumbnail\/public\/2017-08\/ausy-logo.png\u0022 \/\u003E \u003C\/a\u003E\u003C\/div\u003E\r\n\r\n\u003Cp\u003EA revolutionary wholesale online platform for design brands and buyers.It connects vendors and buyers in the sector of fashion and design.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022client-details\u0022\u003E\r\n\u003Cdiv class=\u0022projects-wrap\u0022\u003E\r\n\u003Cdiv class=\u0022projects\u0022\u003E\r\n\u003Ch3\u003EWhat did we do\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EPitechPlus joined forces with Ausy to develop and deliver at highest quality 2 web platforms in the field of insurance and medical care. The platforms are an interactive tool for presenting the current deals and products, offering also the possibility to acquire any of the custom tailored solution or product that a user might need. The multilanguage support of the platforms help the final client target multinational audience, reaching beyond the limit of any border or limitation.\u003C\/p\u003E\r\n\r\n\u003Cdiv class=\u0022members\u0022\u003E\r\n\u003Ch3\u003ETechnical details\u003C\/h3\u003E\r\n\r\n\u003Cp\u003EDrupal 8 solutions\u003Cbr \/\u003E\r\nSEO optimised\u003Cbr \/\u003E\r\nResponsive website\u003Cbr \/\u003E\r\nIntegration of custom web services\u003Cbr \/\u003E\r\nRemote development\u003Cbr \/\u003E\r\nDedicated Teams | Agile SCRUM\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n\r\n\u003Cdiv class=\u0022project-image\u0022\u003E\u003Cimg alt=\u0022ausy platform\u0022 class=\u0022lazyload\u0022 data-original=\u0022\/sites\/default\/files\/inline-images\/ausy-image.jpg\u0022 src=\u0022\/sites\/default\/files\/inline-images\/ausy-image.jpg\u0022 \/\u003E\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n\u003C\/div\u003E\r\n",
     "path": "ausy",
-    "pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/18_ausy-inactive-100x50.png",
-    "active_pictogram": "https:\/\/pitechbo.pitechplus.com\/sites\/default\/files\/2017-10\/18_ausy-active-100x50.png",
+    "pictogram": "img/partners/18.png",
+    "active_pictogram": "img/partners/18.png",
     "meta_title": "AUSY Client",
     "action": [{
       "action_type": "contact",

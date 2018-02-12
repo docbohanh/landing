@@ -132,7 +132,7 @@
       }]
     }, {
       "paragraph_type": "sd_list",
-      "title": "Some of our partners",
+      "title": "",
       "positioning": "right",
       "list_type": "table",
       "slider": "1",
@@ -155,13 +155,32 @@
         "target_id": "43"
       }, {
         "target_id": "44"
+      }, {
+        "target_id": "45"
+      }, {
+        "target_id": "46"
+      }, {
+        "target_id": "47"
+      }, {
+        "target_id": "48"
+      }, {
+        "target_id": "49"
+      }, {
+        "target_id": "50"
+      }, {
+        "target_id": "51"
+      }, {
+        "target_id": "52"
+      }, {
+        "target_id": "53"
       }]
     }]
   },
   "customers": {
     "title": "Customers",
-    "description": "<p>Service is evaluated by quality. Service quality is built for customer satisfaction.</p>",
+    "description": "<p><strong>TELECOMMUNICATION:</strong> Viettel; VNPT; MobiFone; Vietnamobile; FPT Telecom</p><p><strong>BANKING &amp; FINANCE:</strong> Techcombank; ACB; Sacombank</p><p><strong>GOVERNMENT &amp; EDUCATION:</strong> Bộ Ngoại giao VN; Tổng công ty cảng Hàng không Việt Nam;  Đại học Thủy Lợi; Đại học Quốc gia Hà Nội; Học viện Kỹ thuật Quân sự</p><p><strong>ENTERPRISE:</strong> SPT; UNDP; EVN Hanoi; Bkis; VTC; Vishipel</p>",
     "path": "customers",
+    "right_half_picture": "img/section/customers.png",
     "paragraphs": [{
       "paragraph_type": "sd_list",
       "title": "Industries",
